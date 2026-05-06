@@ -38,4 +38,4 @@ Trong dự án này, tôi đảm nhận hai vai trò cốt lõi trong quy trình
 
 ## 🤝 Credit 💛
 * **Dự án tốt nghiệp**: Đại học FPT Quy Nhơn (Khóa 2021 - 2025)[cite: 1].
-* **Original Repository**: [Chèn link Git của nhóm trưởng vào đây]
+* **Original Repository**: [(https://github.com/Niel-Nguyen/Do_an_tot_nghiep)]
